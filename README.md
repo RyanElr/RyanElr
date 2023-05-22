@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 🌱 I’m currently learning React Js
 # Technologies
 ## Front
